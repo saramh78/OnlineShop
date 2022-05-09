@@ -1,0 +1,25 @@
+.subctg{
+    width: 23.5%;
+    height: 15rem;
+    float: right;
+    margin:7px 7px 7px 0px;
+}
+.name{
+    width:100%;
+    height: 20%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.img{
+    width:100%;
+    height: 70%;
+    margin-top: 10%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.img img{
+    width: 10rem;
+    height: 10rem;
+}

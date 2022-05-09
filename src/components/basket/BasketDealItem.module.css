@@ -1,0 +1,38 @@
+.deal{
+    width:92%;
+    height:20%;
+    margin: 2%;
+    padding: 2%;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.name{
+    float: right;
+    width: 70%;
+    text-align: right;
+    font-size: larger;
+    color: #3c3c3c;
+}
+
+.quantityprice{
+    float:right;
+    width: 10%;
+    font-size: larger;
+    color: #3c3c3c;
+}
+
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+ 
+}
+
+.actions button {
+  background-color: transparent;
+  border: 1px solid orangered;
+  margin-left: 0.5rem;
+  padding: 0.15rem 1rem;
+  color: orangered;
+  font-size: larger;
+}

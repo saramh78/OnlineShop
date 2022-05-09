@@ -1,0 +1,31 @@
+.item {
+  list-style-type: none;
+  padding: 1rem 0rem;
+  text-decoration: none;
+  width: 100%;
+  margin-right: 0px;
+  float: right;
+}
+
+.selected{
+  background-color: white;
+}
+
+.itemLink{
+  color: #3c3c3c;
+  text-decoration: none;
+  width:100%;
+}
+
+.Linkselected{
+  border-right: solid 3px  orangered;
+  text-decoration: none;
+}
+
+a{
+  color: #3c3c3c;
+  text-decoration: none;
+  width: 100%;
+  display: block;
+} 
+

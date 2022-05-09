@@ -1,0 +1,56 @@
+.deal {
+  width: 19.2%;
+  height: 300px;
+  background-color: transparent;
+  float: right;
+  margin: 7px 7px 0px 0px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px #dddddd;
+}
+
+.dealImg {
+  width: 100%;
+  height: 50%;
+  margin-top: 10%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.dealName {
+  width: 100%;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 2rem;
+}
+
+.dealPrice {
+  width: 95%;
+  direction: rtl;
+  padding-left: 5%;
+  color: rgb(243, 123, 24);
+justify-content: left;
+  align-items: center;
+  display: flex;
+  font-size: smaller;
+  line-height: 2rem;
+}
+
+.dealCount {
+  width: 90%;
+  line-height: 2rem;
+  justify-content: right;
+  align-items: center;
+  display: flex;
+  color: grey;
+  font-size: smaller;
+  direction: rtl;
+}
+
+.dealImg img {
+  width: 50%;
+  height: 100%;
+}

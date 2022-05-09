@@ -1,0 +1,25 @@
+.header {
+  height: 4rem;
+  width: 90%;
+  overflow: auto;
+  background-color: #630b5e;
+  position: fixed;
+  top:0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.text{
+  width: 30%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text a{
+  color: white;
+  display: block;
+}

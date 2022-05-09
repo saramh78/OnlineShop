@@ -1,0 +1,15 @@
+
+
+.NameFamily{
+    font-size: xx-large;
+    color: #630b5e;
+}
+
+.ProfileInfo{
+text-align: right;
+padding-right: 3%;
+width: 97%;
+font-size: larger;
+border-bottom:1px solid #cccccc;
+line-height: 4rem;
+}
